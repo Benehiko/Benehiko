@@ -8,4 +8,4 @@
 If you like my work, please consider supporting me 
 
 
-[<img src="https://github.com/Benehiko/Benehiko/blob/main/BMC%20logo%2Bwordmark%20-%20Black.png" width=400px>](https://buymeacoff.ee/Benehiko)
+[<img src="https://github.com/Benehiko/Benehiko/blob/main/BMC%20logo%2Bwordmark%20-%20Black.png" width=150px>](https://buymeacoff.ee/Benehiko)
