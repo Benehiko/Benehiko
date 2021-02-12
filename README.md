@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+I'm a full stack Software Engineer working at [Ory](https://ory.sh).
 
-- 🔭 I’m currently working on some open source and saas products
+- :computer: Building things that matter - hopefully :)
 - 🌱 ... and learning as I code.
-- 📫 How to reach me: alanoterblanche@gmail.com | @benehiko_codes
-- :office: Business Inquiries: alano@oleaintueri.com | https://oleaintueri.com
+- 📫 How to reach me: alanoterblanche@gmail.com | @benehiko_codes | alano@ory.sh
 
 If you like my work, please consider supporting me :)
 
