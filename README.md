@@ -6,6 +6,10 @@ I'm a full stack Software Engineer working at [Ory](https://ory.sh).
 - 🌱 ... and learning as I code.
 - 📫 How to reach me: alanoterblanche@gmail.com | @benehiko_codes | alano@ory.sh
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benehiko&count_private=true&show_icons=true&theme=vue-dark)
+
+
 If you like my work, please consider supporting me :)
 
 
