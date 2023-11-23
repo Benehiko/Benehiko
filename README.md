@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-I'm a full stack Software Engineer working at [Ory](https://ory.sh).
+Thank you for stumbling upon my GitHub profile :)
 
-- :computer: Building things that matter - hopefully :)
-- 🌱 ... and learning as I code.
-- 📫 How to reach me: alanoterblanche@gmail.com | @benehiko_codes | alano@ory.sh
+I'm a Gopher, a casual NeoVim user and I game on Linux.   
 
-
-If you like my work, please consider supporting me :)
-
-
-[<img src="https://github.com/Benehiko/Benehiko/blob/main/BMC%20logo%2Bwordmark%20-%20Black.png" width=150px>](https://buymeacoff.ee/Benehiko)
+![](https://i.kym-cdn.com/entries/icons/original/000/038/795/tco_-_2021-11-09T131430.682.jpg)
